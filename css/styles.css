@@ -3,6 +3,8 @@ html {
     scroll-behavior: smooth;
 }
 
+/*Head*/
+
 .jumbotron {
     background-image: url('../images/backgrounds/h_img.jpg');
     background-position: center center;
@@ -40,6 +42,7 @@ html {
     animation: bounce 2s infinite;
 }
 
+/*About Us*/
 .aboutus{
     text-align: center;
     padding-bottom: 30px;
@@ -50,6 +53,8 @@ html {
 #about{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+/*services*/
 
 .services{
     text-align: center;
@@ -71,6 +76,7 @@ html {
     padding-bottom: 10%;
   }
 
+/*what we do*/
   .whatwedo{
     font-family: 'Quattrocento', serif;
     text-align: center;
@@ -81,7 +87,17 @@ html {
   .what-we-do .headings{
     padding-bottom: 38px;
   }
+   #design, #development, #product,{
+    display: none;
+    font-family: 'Copse', serif;
+    font-size: 16px;
+  }
+  #design .title, #development .title,#product .title {
+    font-size: 20px;
+    font-weight: 600;
+  }
 
+/*portfolio*/
   #portfolio{
     display: flex;
     flex-wrap: wrap;
@@ -98,6 +114,9 @@ html {
     padding-top:40px;
     font-family: 'Gabriela', serif;
   }
+
+
+  /*contact Us*/
   .contact{
     color: white;
     background-image: url('../images/backgrounds/c_image.jpg');
@@ -141,5 +160,16 @@ html {
     margin-left: 20%;
     padding-bottom: 30px;
     margin-bottom: 20px;
+  }
+
+  /*Footer*/
+
+  footer{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Delius Swash Caps', cursive;
+  }
+  footer p{
+    margin-top: 10px;
   }
  
