@@ -35,11 +35,23 @@ html {
 #mouse-click{
     padding-top : 22px;
     margin-top: 10%;
-    padding-bottom: 30px;    
+    padding-bottom: 30px;
 }
 
 #mouse-click{
-    animation: bounce 2s infinite;
+    animation: mouse_click 2s infinite;
+}
+
+@keyframes mouse_click {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-55px);
+  }
+  60% {
+    transform: translateY(-45px);
+  }
 }
 
 /*About Us*/
@@ -84,7 +96,7 @@ html {
     font-family: 'Gabriela', serif;
   }
 
-  .what-we-do .headings{
+  .whatwedo .sub-headings{
     padding-bottom: 38px;
   }
 
