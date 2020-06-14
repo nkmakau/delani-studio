@@ -84,16 +84,16 @@ $(document).ready(function () {
 });
 
 $(document).ready(function () {
-    $("form#form34A").submit(function (event) {
-        // event.preventDefault();
-        var name = $("input#MERGE1").val();
-        var email = $("input#MERGE0").val();
-        var message = $("textarea#comment").val();
-        if ($("input#MERGE1").val() && $("input#MERGE0").val()) {
-            alert(name + ", we have received your message. Thank you for reaching out to us.");
+    $("form#delanicf").submit(function (event) {
+        var name = $("input#fullname").val()
+        var email = $("input#email").val()
+        var message = $("textarea#message").val()
+        if ($("input#email").val() && $("input#fullname").val()) {
+            alert(name + ", Thank you for your message. Our representative will be intouch soonest.")
         }
         else {
-            alert("Please enter your name and email!");
+            alert("Opps!! Please enter your name and email!")
+            event.preventDefault();
         }
 
     });
