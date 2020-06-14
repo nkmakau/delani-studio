@@ -6,8 +6,7 @@
 
 ## Description
 
-This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios. 
-It also showcases understanding  and use of HTML, CSS, Bootstrap, Javascript and Jquery as an Indepenend project at Moringa School.
+This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.  It also showcases understanding  and use of HTML, CSS, Bootstrap, JavaScript and JQuery as an Independent project at Moringa School.
 
 ## Screenshot
 <img src="" width="900px" height="440px">
