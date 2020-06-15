@@ -9,10 +9,10 @@
 This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios.  It also showcases understanding  and use of HTML, CSS, Bootstrap, JavaScript and JQuery as an Independent project at Moringa School.
 
 ## Screenshot
-<img src="" width="900px" height="440px">
+<img src="images/delani-studio.jpg" width="900px" height="440px">
 
 ## Live Page 
-https://nkmakau.github.io/delani-studio 
+https://delani-studio.netlify.app/
 
 
 ## Installation / Setup instruction
@@ -22,7 +22,7 @@ https://nkmakau.github.io/delani-studio
 
 * cd delani-studio
 
-* code . or atom . depending on the text editor of your choise.
+* code . or atom . depending on the text editor of your choice.
 
 ## Technologies Used
 
@@ -30,6 +30,7 @@ https://nkmakau.github.io/delani-studio
 * [CSS](https://github.com/topics/css3)
 * [Bootstrap](https://github.com/topics/bootstrap)
 * [jQuery](https://github.com/topics/javascript)
+* Added mailchimp subscription.
 * markdown
 
 
@@ -42,12 +43,11 @@ https://nkmakau.github.io/delani-studio
 | Press Submit|     |Pop up "Noah Makau , hank you for your message. Our representative will be intouch soonest.|
 
 ## Known Bugs
-* The form is not posting as it should.
-* mail chimp API does not function properly.* 
+* No bugs noted.
 
 ## Contact Information 
 
-If you have any querieas or comments, please emreach me at [noshmak@gmail.com]
+If you have any bugs, queries or comments, please reach out to me at [noshmak@gmail.com]
 
 ## License
 * *MIT License:*
