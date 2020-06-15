@@ -40,7 +40,7 @@ https://delani-studio.netlify.app/
 |  Enter your name  |   Noah Makau |     |
 | Enter your Email Address  | nkmakau@gmail.com |   |
 | Enter your message or comment   | Very much interested in your work!    |     |
-| Press Submit|     |Pop up "Noah Makau , hank you for your message. Our representative will be intouch soonest.|
+| Press Submit|     |Pop up "Noah Makau , Thank you for your message. Our representative will be intouch soonest.|
 
 ## Known Bugs
 * No bugs noted.
